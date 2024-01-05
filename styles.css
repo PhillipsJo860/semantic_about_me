@@ -1,0 +1,20 @@
+/* Joshua Phillips */
+/* Date */
+/* Project */
+
+:root {
+    --dark-mode: rgb(54, 46, 46);
+    --white-text: whitesmoke;
+    --yellow-highlight: yellow;
+    --red-outline: rgb(223, 15, 15);
+}
+
+body {
+    background-color: var(--dark-mode);
+    color: var(--white-text);
+    font-family: 'Merriweather', serif;
+}
+
+.nav_spacing {
+    padding-right: 8px;
+}
